@@ -1,4 +1,4 @@
-class Main {
+class intro {
     public static void main(String[] args) {
         System.out.println("Hello world");
         byte a=127;
