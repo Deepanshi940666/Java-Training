@@ -1,4 +1,4 @@
-class lec2{
+class typecasting{
     public static void main(String[] args ){
         short a=131;
         byte b=(byte)a;
