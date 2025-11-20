@@ -5,6 +5,7 @@ abstract class Shape{
 }
 class Circle extends Shape{
     void area(float n,float m){
+     
         System.out.println("Area of circle is "+n*n*m);
     }
 }
