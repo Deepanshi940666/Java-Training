@@ -1,4 +1,4 @@
-public class Mer{
+public class Merarge{
     static void mergeSort(int[] arr,int l,int r) {
         if(l>=r) return;
         int mid=(l+r)/2;
